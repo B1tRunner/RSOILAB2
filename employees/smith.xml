@@ -1,0 +1,6 @@
+<Employee>
+    <Name>John Smith</Name>
+    <Position>Software Engineer</Position>
+    <Department>Engineering</Department>
+    <Salary>75000</Salary>
+</Employee>

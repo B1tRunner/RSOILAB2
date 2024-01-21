@@ -1,0 +1,6 @@
+<Employee>
+    <Name>Jane Doe</Name>
+    <Position>Marketing Manager</Position>
+    <Department>Marketing</Department>
+    <Salary>90000</Salary>
+</Employee>
